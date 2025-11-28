@@ -46,6 +46,5 @@ simple_wordcount.py (пайплайн)
     ├── Подготовка к Yandex Cloud [yandex_upload/]
     
     └── Перемещение файлов [input/] → [processed/]
-    
         ↓
 scheduler.py ← Периодический запуск
